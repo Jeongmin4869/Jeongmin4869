@@ -1,21 +1,26 @@
 Welcome to Jeongmin's github 👋
 =====
 
+<br/>
+
+* ✏️I'm currently studying.
+<br/><br/>
+
 :muscle:Skills
 ----
-Languages   
+**Languages**   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-squar&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-squar&logo=C%20sharp#&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-squar&logo=Java#&logoColor=white">
-
-
-
-Tools   
+<br>
+<br>
+**Tools**   
 <img src="https://img.shields.io/badge/Unity3D-FFFFFF?style=flat-squar&logo=Unity#&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
-            
-
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squar&logo=Eclipse%20IDE#&logoColor=white">
+<br/><br/>
+**KOR, ENG, JPN⭕**
 <!--
 **Jeongmin4869/Jeongmin4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
