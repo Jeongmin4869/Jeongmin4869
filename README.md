@@ -20,6 +20,11 @@ Welcome to Jeongmin's github 👋
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squar&logo=Eclipse%20IDE#&logoColor=white">
 <br/><br/>
+
+📫Contact
+----
+**ljm4135@naver.com**
+<br/><br/><br/>
 **KOR, ENG, JPN⭕**
 <!--
 **Jeongmin4869/Jeongmin4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
