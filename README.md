@@ -23,7 +23,7 @@ Welcome to Jeongmin's github 👋
 ----
 **ljm4135@naver.com**
 <br/><br/><br/>
-**KOR, ENG, JPN⭕**
+**KOR, ENG, JPN ⭕**
 <!--
 **Jeongmin4869/Jeongmin4869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
