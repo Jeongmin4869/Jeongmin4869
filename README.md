@@ -8,16 +8,21 @@ Welcome to Jeongmin's github 👋
 
 :muscle:Skills
 ----
-  
+**Language & Framework**<br/>  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-squar&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-squar&logo=C%20sharp#&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-squar&logo=Java#&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo=Spring&logoColor=white">
 <br>
-
+<br/> 
+**Database**<br/> <br/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-squar&logo=Oracle&logoColor=white">
+<br/>
+<br/> 
+**Tool**<br/><br/> 
 <img src="https://img.shields.io/badge/Unity3D-FFFFFF?style=flat-squar&logo=Unity#&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squar&logo=Eclipse%20IDE#&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squar&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squar&logo=Spring&logoColor=white">
 <br/><br/>
 
 📫Contact
