@@ -21,7 +21,7 @@ Welcome to Jeongmin's github 👋
 <br/>
 <br/> 
 **Tools**<br/><br/> 
-<img src="https://img.shields.io/badge/Unity3D-FFFFFF?style=flat-squar&logo=Unity#&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-squar&logo=Unity#&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squar&logo=Eclipse%20IDE#&logoColor=white">
 <br/><br/>
 
