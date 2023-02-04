@@ -21,10 +21,11 @@ Welcome to Jeongmin's github 👋
 <br/>
 <br/> 
 **Tools**<br/><br/> 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-squar&logo=Unity#&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-squar&logo=Unity#&logoColor=white"> 
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-squar&logo=Visual%20Studio#&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-squar&logo=Eclipse%20IDE#&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-squar&logo=EIntelliJ%20IDEA#&logoColor=white">
 <br/><br/>
-
 📫Contact
 ----
 **ljm4135@naver.com**
